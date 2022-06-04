@@ -1,6 +1,6 @@
 // Licensed Under Apache License
 /*Know about me in terminal */
-// V1.0
+// V2.0
 import java.util.*;
 class aman{
     public static void main(String[]args){
@@ -45,10 +45,10 @@ class aman{
                 System.out.println("Bye 👋 ");
                 break ;
             case "Working":
-                System.out.println("AliceOS Classic :A CLI Based OS with Pranav Krishna ");
+                System.out.println("AliceOS Classic :A CLI Based OS with Pranav Krishna Future Project ");
                 System.out.println("Bye 👋");
                 break;
-
+//  When none of the options match 
             default :
                 System.out.println("Bye :}Meet you Later");
 
